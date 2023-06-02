@@ -1,0 +1,82 @@
+[2023-05-30 08:08:42.193] [INFO ] [main] com.springboot.api.ApiApplication Starting ApiApplication using Java 11 on BOOK-HR4872EFKP with PID 37200 (C:\Users\princ\Desktop\restapitest\restapitest\target\classes started by princ in C:\Users\princ\Desktop\restapitest\restapitest)
+[2023-05-30 08:08:42.202] [INFO ] [main] com.springboot.api.ApiApplication No active profile set, falling back to default profiles: default
+[2023-05-30 08:08:43.764] [INFO ] [main] org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port(s): 9090 (http)
+[2023-05-30 08:08:43.773] [INFO ] [main] org.apache.coyote.http11.Http11NioProtocol Initializing ProtocolHandler ["http-nio-9090"]
+[2023-05-30 08:08:43.773] [INFO ] [main] org.apache.catalina.core.StandardService Starting service [Tomcat]
+[2023-05-30 08:08:43.775] [INFO ] [main] org.apache.catalina.core.StandardEngine Starting Servlet engine: [Apache Tomcat/9.0.54]
+[2023-05-30 08:08:43.857] [INFO ] [main] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring embedded WebApplicationContext
+[2023-05-30 08:08:43.857] [INFO ] [main] org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext Root WebApplicationContext: initialization completed in 1620 ms
+[2023-05-30 08:08:44.254] [INFO ] [main] springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+[2023-05-30 08:08:44.442] [INFO ] [main] org.apache.coyote.http11.Http11NioProtocol Starting ProtocolHandler ["http-nio-9090"]
+[2023-05-30 08:08:44.469] [INFO ] [main] org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat started on port(s): 9090 (http) with context path ''
+[2023-05-30 08:08:44.470] [INFO ] [main] springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper Context refreshed
+[2023-05-30 08:08:44.500] [INFO ] [main] springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper Found 1 custom documentation plugin(s)
+[2023-05-30 08:08:44.536] [INFO ] [main] springfox.documentation.spring.web.scanners.ApiListingReferenceScanner Scanning for api listing references
+[2023-05-30 08:08:44.675] [INFO ] [main] com.springboot.api.ApiApplication Started ApiApplication in 2.877 seconds (JVM running for 3.27)
+[2023-05-30 08:09:06.308] [INFO ] [http-nio-9090-exec-1] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2023-05-30 08:09:06.311] [INFO ] [http-nio-9090-exec-1] org.springframework.web.servlet.DispatcherServlet Initializing Servlet 'dispatcherServlet'
+[2023-05-30 08:09:06.311] [INFO ] [http-nio-9090-exec-1] org.springframework.web.servlet.DispatcherServlet Completed initialization in 0 ms
+[2023-05-30 08:09:06.323] [WARN ] [http-nio-9090-exec-1] org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'GET' not supported]
+[2023-05-30 08:11:47.621] [INFO ] [main] com.springboot.api.ApiApplication Starting ApiApplication using Java 11 on BOOK-HR4872EFKP with PID 39172 (C:\Users\princ\Desktop\restapitest\restapitest\target\classes started by princ in C:\Users\princ\Desktop\restapitest\restapitest)
+[2023-05-30 08:11:47.624] [INFO ] [main] com.springboot.api.ApiApplication No active profile set, falling back to default profiles: default
+[2023-05-30 08:11:49.232] [INFO ] [main] org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port(s): 9090 (http)
+[2023-05-30 08:11:49.242] [INFO ] [main] org.apache.coyote.http11.Http11NioProtocol Initializing ProtocolHandler ["http-nio-9090"]
+[2023-05-30 08:11:49.242] [INFO ] [main] org.apache.catalina.core.StandardService Starting service [Tomcat]
+[2023-05-30 08:11:49.242] [INFO ] [main] org.apache.catalina.core.StandardEngine Starting Servlet engine: [Apache Tomcat/9.0.54]
+[2023-05-30 08:11:49.320] [INFO ] [main] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring embedded WebApplicationContext
+[2023-05-30 08:11:49.320] [INFO ] [main] org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext Root WebApplicationContext: initialization completed in 1657 ms
+[2023-05-30 08:11:49.762] [INFO ] [main] springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+[2023-05-30 08:11:49.962] [INFO ] [main] org.apache.coyote.http11.Http11NioProtocol Starting ProtocolHandler ["http-nio-9090"]
+[2023-05-30 08:11:49.987] [INFO ] [main] org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat started on port(s): 9090 (http) with context path ''
+[2023-05-30 08:11:49.988] [INFO ] [main] springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper Context refreshed
+[2023-05-30 08:11:50.011] [INFO ] [main] springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper Found 1 custom documentation plugin(s)
+[2023-05-30 08:11:50.041] [INFO ] [main] springfox.documentation.spring.web.scanners.ApiListingReferenceScanner Scanning for api listing references
+[2023-05-30 08:11:50.156] [INFO ] [main] com.springboot.api.ApiApplication Started ApiApplication in 2.978 seconds (JVM running for 3.336)
+[2023-05-30 08:12:02.854] [INFO ] [http-nio-9090-exec-1] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2023-05-30 08:12:02.855] [INFO ] [http-nio-9090-exec-1] org.springframework.web.servlet.DispatcherServlet Initializing Servlet 'dispatcherServlet'
+[2023-05-30 08:12:02.856] [INFO ] [http-nio-9090-exec-1] org.springframework.web.servlet.DispatcherServlet Completed initialization in 1 ms
+[2023-05-30 08:12:02.868] [WARN ] [http-nio-9090-exec-1] org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'GET' not supported]
+[2023-05-30 08:12:16.618] [WARN ] [http-nio-9090-exec-3] org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'GET' not supported]
+[2023-05-30 08:12:28.925] [WARN ] [http-nio-9090-exec-4] org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver Resolved [org.springframework.http.converter.HttpMessageNotReadableException: Required request body is missing: public java.lang.String com.springboot.api.controller.PostController.postMember(java.util.Map<java.lang.String, java.lang.Object>)]
+[2023-05-30 08:16:58.981] [INFO ] [main] com.springboot.api.ApiApplication Starting ApiApplication using Java 11 on BOOK-HR4872EFKP with PID 33760 (C:\Users\princ\Desktop\restapitest\restapitest\target\classes started by princ in C:\Users\princ\Desktop\restapitest\restapitest)
+[2023-05-30 08:16:58.985] [INFO ] [main] com.springboot.api.ApiApplication No active profile set, falling back to default profiles: default
+[2023-05-30 08:17:00.519] [INFO ] [main] org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port(s): 9090 (http)
+[2023-05-30 08:17:00.527] [INFO ] [main] org.apache.coyote.http11.Http11NioProtocol Initializing ProtocolHandler ["http-nio-9090"]
+[2023-05-30 08:17:00.527] [INFO ] [main] org.apache.catalina.core.StandardService Starting service [Tomcat]
+[2023-05-30 08:17:00.527] [INFO ] [main] org.apache.catalina.core.StandardEngine Starting Servlet engine: [Apache Tomcat/9.0.54]
+[2023-05-30 08:17:00.607] [INFO ] [main] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring embedded WebApplicationContext
+[2023-05-30 08:17:00.607] [INFO ] [main] org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext Root WebApplicationContext: initialization completed in 1581 ms
+[2023-05-30 08:17:01.003] [INFO ] [main] springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+[2023-05-30 08:17:01.197] [INFO ] [main] org.apache.coyote.http11.Http11NioProtocol Starting ProtocolHandler ["http-nio-9090"]
+[2023-05-30 08:17:01.228] [INFO ] [main] org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat started on port(s): 9090 (http) with context path ''
+[2023-05-30 08:17:01.230] [INFO ] [main] springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper Context refreshed
+[2023-05-30 08:17:01.257] [INFO ] [main] springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper Found 1 custom documentation plugin(s)
+[2023-05-30 08:17:01.284] [INFO ] [main] springfox.documentation.spring.web.scanners.ApiListingReferenceScanner Scanning for api listing references
+[2023-05-30 08:17:01.395] [INFO ] [main] com.springboot.api.ApiApplication Started ApiApplication in 2.841 seconds (JVM running for 3.169)
+[2023-05-30 08:17:05.878] [INFO ] [http-nio-9090-exec-1] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2023-05-30 08:17:05.880] [INFO ] [http-nio-9090-exec-1] org.springframework.web.servlet.DispatcherServlet Initializing Servlet 'dispatcherServlet'
+[2023-05-30 08:17:05.882] [INFO ] [http-nio-9090-exec-1] org.springframework.web.servlet.DispatcherServlet Completed initialization in 2 ms
+[2023-05-30 08:17:05.932] [WARN ] [http-nio-9090-exec-1] org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver Resolved [org.springframework.http.converter.HttpMessageNotReadableException: Required request body is missing: public java.lang.String com.springboot.api.controller.PostController.postMember(java.util.Map<java.lang.String, java.lang.Object>)]
+[2023-05-30 08:18:46.670] [WARN ] [http-nio-9090-exec-2] org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver Resolved [org.springframework.http.converter.HttpMessageNotReadableException: Required request body is missing: public java.lang.String com.springboot.api.controller.PostController.postMember(java.util.Map<java.lang.String, java.lang.Object>)]
+[2023-05-30 08:21:41.665] [WARN ] [http-nio-9090-exec-3] org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver Resolved [org.springframework.http.converter.HttpMessageNotReadableException: JSON parse error: Unexpected character ('n' (code 110)): was expecting double-quote to start field name; nested exception is com.fasterxml.jackson.core.JsonParseException: Unexpected character ('n' (code 110)): was expecting double-quote to start field name<LF> at [Source: (PushbackInputStream); line: 2, column: 4]]
+[2023-05-30 08:22:00.663] [WARN ] [http-nio-9090-exec-4] org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver Resolved [org.springframework.http.converter.HttpMessageNotReadableException: JSON parse error: Unexpected character ('n' (code 110)): was expecting double-quote to start field name; nested exception is com.fasterxml.jackson.core.JsonParseException: Unexpected character ('n' (code 110)): was expecting double-quote to start field name<LF> at [Source: (PushbackInputStream); line: 2, column: 4]]
+[2023-05-30 08:22:17.636] [WARN ] [http-nio-9090-exec-5] org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver Resolved [org.springframework.http.converter.HttpMessageNotReadableException: JSON parse error: Unexpected character ('n' (code 110)): was expecting double-quote to start field name; nested exception is com.fasterxml.jackson.core.JsonParseException: Unexpected character ('n' (code 110)): was expecting double-quote to start field name<LF> at [Source: (PushbackInputStream); line: 2, column: 4]]
+[2023-05-30 08:23:41.342] [WARN ] [http-nio-9090-exec-6] org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver Resolved [org.springframework.http.converter.HttpMessageNotReadableException: JSON parse error: Unexpected character ('n' (code 110)): was expecting double-quote to start field name; nested exception is com.fasterxml.jackson.core.JsonParseException: Unexpected character ('n' (code 110)): was expecting double-quote to start field name<LF> at [Source: (PushbackInputStream); line: 2, column: 4]]
+[2023-05-30 08:51:00.288] [INFO ] [main] com.springboot.api.ApiApplication Starting ApiApplication using Java 11 on BOOK-HR4872EFKP with PID 28628 (C:\Users\princ\Desktop\restapitest\restapitest\target\classes started by princ in C:\Users\princ\Desktop\restapitest\restapitest)
+[2023-05-30 08:51:00.288] [INFO ] [main] com.springboot.api.ApiApplication No active profile set, falling back to default profiles: default
+[2023-05-30 08:51:01.716] [INFO ] [main] org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port(s): 9090 (http)
+[2023-05-30 08:51:01.722] [INFO ] [main] org.apache.coyote.http11.Http11NioProtocol Initializing ProtocolHandler ["http-nio-9090"]
+[2023-05-30 08:51:01.722] [INFO ] [main] org.apache.catalina.core.StandardService Starting service [Tomcat]
+[2023-05-30 08:51:01.722] [INFO ] [main] org.apache.catalina.core.StandardEngine Starting Servlet engine: [Apache Tomcat/9.0.54]
+[2023-05-30 08:51:01.795] [INFO ] [main] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring embedded WebApplicationContext
+[2023-05-30 08:51:01.795] [INFO ] [main] org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext Root WebApplicationContext: initialization completed in 1475 ms
+[2023-05-30 08:51:02.153] [INFO ] [main] springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+[2023-05-30 08:51:02.309] [INFO ] [main] org.apache.coyote.http11.Http11NioProtocol Starting ProtocolHandler ["http-nio-9090"]
+[2023-05-30 08:51:02.325] [INFO ] [main] org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat started on port(s): 9090 (http) with context path ''
+[2023-05-30 08:51:02.325] [INFO ] [main] springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper Context refreshed
+[2023-05-30 08:51:02.340] [INFO ] [main] springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper Found 1 custom documentation plugin(s)
+[2023-05-30 08:51:02.372] [INFO ] [main] springfox.documentation.spring.web.scanners.ApiListingReferenceScanner Scanning for api listing references
+[2023-05-30 08:51:02.481] [INFO ] [main] com.springboot.api.ApiApplication Started ApiApplication in 2.586 seconds (JVM running for 2.898)
+[2023-05-30 08:51:53.648] [INFO ] [http-nio-9090-exec-1] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2023-05-30 08:51:53.648] [INFO ] [http-nio-9090-exec-1] org.springframework.web.servlet.DispatcherServlet Initializing Servlet 'dispatcherServlet'
+[2023-05-30 08:51:53.648] [INFO ] [http-nio-9090-exec-1] org.springframework.web.servlet.DispatcherServlet Completed initialization in 0 ms
